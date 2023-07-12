@@ -1,0 +1,445 @@
+﻿{
+  "status": "ok",
+  "tasks": [
+    {
+      "tid": 12371836,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Юлия конкурент 2 прямой",
+      "act": "1",
+      "count": 19004,
+      "tid_status": "completed",
+      "add_time": "1674630047",
+      "update_time": "1674642547"
+    },
+    {
+      "tid": 12371834,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Юлия конкурент 1 прямой",
+      "act": "1",
+      "count": 27669,
+      "tid_status": "completed",
+      "add_time": "1674630021",
+      "update_time": "1674643443"
+    },
+    {
+      "tid": 12371837,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Юлия конкурент 3 прямой",
+      "act": "1",
+      "count": 143347,
+      "tid_status": "completed",
+      "add_time": "1674630081",
+      "update_time": "1674658815"
+    },
+    {
+      "tid": 12371845,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Юлия конкурент. Косвенный",
+      "act": "1",
+      "count": 11426,
+      "tid_status": "completed",
+      "add_time": "1674630145",
+      "update_time": "1674640363"
+    },
+    {
+      "tid": 12371846,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Юлия конкурент косвенный",
+      "act": "1",
+      "count": 12889,
+      "tid_status": "completed",
+      "add_time": "1674630172",
+      "update_time": "1674631163"
+    },
+    {
+      "tid": 12371849,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Юлия конкурент косвенный 3",
+      "act": "1",
+      "count": 55956,
+      "tid_status": "completed",
+      "add_time": "1674630207",
+      "update_time": "1674644285"
+    },
+    {
+      "tid": 12371854,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Арси омоложение",
+      "act": "1",
+      "count": 742497,
+      "tid_status": "completed",
+      "add_time": "1674630251",
+      "update_time": "1674708204"
+    },
+    {
+      "tid": 12371859,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Арси комплекс тела",
+      "act": "1",
+      "count": 256733,
+      "tid_status": "completed",
+      "add_time": "1674630310",
+      "update_time": "1674665836"
+    },
+    {
+      "tid": 12371917,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Арси конкурент бизнес",
+      "act": "1",
+      "count": 26883,
+      "tid_status": "completed",
+      "add_time": "1674642547",
+      "update_time": "1674645105"
+    },
+    {
+      "tid": 12371898,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Арси косвенный 2",
+      "act": "1",
+      "count": 674030,
+      "tid_status": "completed",
+      "add_time": "1674630400",
+      "update_time": "1674708616"
+    },
+    {
+      "tid": 12371895,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Арси работа с телом косвенный",
+      "act": "1",
+      "count": 90186,
+      "tid_status": "completed",
+      "add_time": "1674630374",
+      "update_time": "1674646384"
+    },
+    {
+      "tid": 12371908,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Арси косвенный 3",
+      "act": "1",
+      "count": 167101,
+      "tid_status": "completed",
+      "add_time": "1674631163",
+      "update_time": "1674656414"
+    },
+    {
+      "tid": 12371912,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Дашкиев",
+      "act": "1",
+      "count": 468448,
+      "tid_status": "completed",
+      "add_time": "1674640363",
+      "update_time": "1674694924"
+    },
+    {
+      "tid": 12374390,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Юлия конкурент 2",
+      "act": "1",
+      "count": 15633,
+      "tid_status": "completed",
+      "add_time": "1674643433",
+      "update_time": "1674665974"
+    },
+    {
+      "tid": 12374409,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Юлия конкурент косвеннный",
+      "act": "1",
+      "count": 10226,
+      "tid_status": "completed",
+      "add_time": "1674665974",
+      "update_time": "1674679992"
+    },
+    {
+      "tid": 12374433,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Юлия конкурент, косвенный 2",
+      "act": "1",
+      "count": 11877,
+      "tid_status": "completed",
+      "add_time": "1674679992",
+      "update_time": "1674692002"
+    },
+    {
+      "tid": 12374448,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Юлия конкурент 1  прямой",
+      "act": "1",
+      "count": 25499,
+      "tid_status": "completed",
+      "add_time": "1674692002",
+      "update_time": "1674719702"
+    },
+    {
+      "tid": 12378314,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Юлия конкурент косвенный 3",
+      "act": "1",
+      "count": 53049,
+      "tid_status": "completed",
+      "add_time": "1674755041",
+      "update_time": "1674784824"
+    },
+    {
+      "tid": 12378320,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Юлия конкурент 3",
+      "act": "1",
+      "count": 130649,
+      "tid_status": "completed",
+      "add_time": "1674784824",
+      "update_time": "1674905005"
+    },
+    {
+      "tid": 12378311,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Юлия конкурент прямой 1",
+      "act": "1",
+      "count": 24411,
+      "tid_status": "completed",
+      "add_time": "1674719702",
+      "update_time": "1674746553"
+    },
+    {
+      "tid": 12378312,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Юлия конкурент косвенный 1",
+      "act": "1",
+      "count": 10780,
+      "tid_status": "completed",
+      "add_time": "1674746553",
+      "update_time": "1674755041"
+    },
+    {
+      "tid": 12422668,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Арси 1 омоложение",
+      "act": "1",
+      "count": 413882,
+      "tid_status": "completed",
+      "add_time": "1674905005",
+      "update_time": "1675251662"
+    },
+    {
+      "tid": 12422704,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Арси 2 комплекс тела",
+      "act": "1",
+      "count": 37330,
+      "tid_status": "completed",
+      "add_time": "1675249557",
+      "update_time": "1675288523"
+    },
+    {
+      "tid": 12422709,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Арси 3",
+      "act": "1",
+      "count": 16959,
+      "tid_status": "completed",
+      "add_time": "1675286405",
+      "update_time": "1675308178"
+    },
+    {
+      "tid": 12422723,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Арси 4",
+      "act": "1",
+      "count": 283752,
+      "tid_status": "completed",
+      "add_time": "1675306240",
+      "update_time": "1675451365"
+    },
+    {
+      "tid": 12422730,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - фарси 5",
+      "act": "1",
+      "count": 106117,
+      "tid_status": "completed",
+      "add_time": "1675449249",
+      "update_time": "1675522847"
+    },
+    {
+      "tid": 12422737,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Арси 6",
+      "act": "1",
+      "count": 33673,
+      "tid_status": "completed",
+      "add_time": "1675520629",
+      "update_time": "1675541075"
+    },
+    {
+      "tid": 12422741,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - Арси 7",
+      "act": "1",
+      "count": 5244,
+      "tid_status": "completed",
+      "add_time": "1675538656",
+      "update_time": "1675545628"
+    },
+    {
+      "tid": 12648085,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Даша конкурент 3",
+      "act": "1",
+      "count": 100429,
+      "tid_status": "completed",
+      "add_time": "1675930839",
+      "update_time": "1675937250"
+    },
+    {
+      "tid": 12648083,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Даш конкурент 1",
+      "act": "1",
+      "count": 220344,
+      "tid_status": "completed",
+      "add_time": "1675930772",
+      "update_time": "1675942614"
+    },
+    {
+      "tid": 12648088,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Даша конкурент 4",
+      "act": "1",
+      "count": 320131,
+      "tid_status": "completed",
+      "add_time": "1675930867",
+      "update_time": "1675948792"
+    },
+    {
+      "tid": 12648092,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Даша конкурент 6/",
+      "act": "1",
+      "count": 272486,
+      "tid_status": "completed",
+      "add_time": "1675930925",
+      "update_time": "1675946308"
+    },
+    {
+      "tid": 12648084,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Даша конкурент 2",
+      "act": "1",
+      "count": 137615,
+      "tid_status": "completed",
+      "add_time": "1675930809",
+      "update_time": "1675939492"
+    },
+    {
+      "tid": 12648091,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Даша конкурент 5",
+      "act": "1",
+      "count": 61868,
+      "tid_status": "completed",
+      "add_time": "1675930897",
+      "update_time": "1675936041"
+    },
+    {
+      "tid": 12648093,
+      "type": "p1",
+      "name": "Сбор с аккаунта - Даша конкурент 7",
+      "act": "1",
+      "count": 1086662,
+      "tid_status": "completed",
+      "add_time": "1675930950",
+      "update_time": "1675989358"
+    },
+    {
+      "tid": 12684707,
+      "type": "p1",
+      "name": "Сбор с аккаунта - marina",
+      "act": "1",
+      "count": 1753,
+      "tid_status": "completed",
+      "add_time": "1676363364",
+      "update_time": "1676364030"
+    },
+    {
+      "tid": 12684777,
+      "type": "p1",
+      "name": "Сбор с аккаунта - 14.02 11:26",
+      "act": "1",
+      "count": 1677,
+      "tid_status": "completed",
+      "add_time": "1676364821",
+      "update_time": "1676365784"
+    },
+    {
+      "tid": 12691042,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - даша конккурент 1",
+      "act": "1",
+      "count": 53710,
+      "tid_status": "completed",
+      "add_time": "1676466067",
+      "update_time": "1676519382"
+    },
+    {
+      "tid": 12691048,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - даша конкурент 2",
+      "act": "1",
+      "count": 16280,
+      "tid_status": "completed",
+      "add_time": "1676516980",
+      "update_time": "1676538235"
+    },
+    {
+      "tid": 12691051,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - даша конкурент 3",
+      "act": "1",
+      "count": 9203,
+      "tid_status": "completed",
+      "add_time": "1676535829",
+      "update_time": "1676554778"
+    },
+    {
+      "tid": 12691057,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - даша 4",
+      "act": "1",
+      "count": 76962,
+      "tid_status": "completed",
+      "add_time": "1676552532",
+      "update_time": "1676592768"
+    },
+    {
+      "tid": 12691059,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - даша 5",
+      "act": "1",
+      "count": 13462,
+      "tid_status": "completed",
+      "add_time": "1676590422",
+      "update_time": "1676600341"
+    },
+    {
+      "tid": 12714391,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - даша 6",
+      "act": "1",
+      "count": 56622,
+      "tid_status": "completed",
+      "add_time": "1676628980",
+      "update_time": "1676685262"
+    },
+    {
+      "tid": 12714395,
+      "type": "f1",
+      "name": "Фильтрация аккаунтов - даша 7",
+      "act": "1",
+      "count": 75204,
+      "tid_status": "completed",
+      "add_time": "1676683081",
+      "update_time": "1676775914"
+    }
+  ]
+} 
