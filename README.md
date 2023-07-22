@@ -68,7 +68,7 @@ Various data structures like lists and dictionaries are employed to store and ma
 
 - The program assumes that API keys for Parser.Im and InstaParser are stored in the config.json file.
 
-- The program uses not the most profitable algorithm for creating funnels.
+- The program does not generate the best hashtag frequency arrangement.
   
 - Various methods for data handling are used in the program, including reading from files, creating new files, filtering, and saving results.
 
